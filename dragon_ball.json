@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Goku",
+      "race": "Saiyan",
+      "powerLevel": 9000,
+      "technique": "Kamehameha",
+      "affiliation": "Z Fighters",
+      "status": "Alive"
+    },
+    {
+      "name": "Vegeta",
+      "race": "Saiyan",
+      "powerLevel": 8000,
+      "technique": "Final Flash",
+      "affiliation": "Z Fighters",
+      "status": "Alive"
+    },
+    {
+      "name": "Piccolo",
+      "race": "Namekian",
+      "powerLevel": 3500,
+      "technique": "Special Beam Cannon",
+      "affiliation": "Z Fighters",
+      "status": "Alive"
+    },
+    {
+      "name": "Frieza",
+      "race": "Frieza Race",
+      "powerLevel": 1200000,
+      "technique": "Death Ball",
+      "affiliation": "Frieza Force",
+      "status": "Alive"
+    },
+    {
+      "name": "Bulma",
+      "race": "Human",
+      "powerLevel": 5,
+      "technique": "Inventing",
+      "affiliation": "Z Fighters",
+      "status": "Alive"
+    }
+  ]
+  
